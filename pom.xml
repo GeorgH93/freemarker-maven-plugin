@@ -18,7 +18,7 @@
     <maven.test.skip>true</maven.test.skip>
     <maven-core.version>3.9.1</maven-core.version>
     <maven-plugin-api.version>3.9.1</maven-plugin-api.version>
-    <maven-plugin-annotations.version>3.8.1</maven-plugin-annotations.version>
+    <maven-plugin-annotations.version>3.8.2</maven-plugin-annotations.version>
     <fastutil.version>8.1.0</fastutil.version>
     <freemarker.version>2.3.32</freemarker.version>
     <gson.version>2.10.1</gson.version>
