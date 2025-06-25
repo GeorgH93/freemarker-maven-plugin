@@ -17,7 +17,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <maven.test.skip>true</maven.test.skip>
     <maven-core.version>3.9.9</maven-core.version>
-    <maven-plugin-api.version>3.9.9</maven-plugin-api.version>
+    <maven-plugin-api.version>3.9.10</maven-plugin-api.version>
     <maven-plugin-annotations.version>3.9.0</maven-plugin-annotations.version>
     <fastutil.version>8.1.0</fastutil.version>
     <freemarker.version>2.3.34</freemarker.version>
